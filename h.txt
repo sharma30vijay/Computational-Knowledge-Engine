@@ -1,0 +1,4 @@
+hero it-is-a-bike-company is-a-movie Headquarters-New Delhi,India Chairman,MD-CEO-is-Pawan-Munjal Revenue-is-Rs241.66billion  slogan-is-Hum-Mein-Hai-Hero
+honda it-is-a-Automobile-vehicle-company founded-by-Hamamatsu,Japan-in-1946 Headquarters-Minato,Tokyo,Japan CEO-is-Takanobu-Ito Revenue-is-¥11.85-trillion number-of-employees-are-198561 
+huawei it-is-a-private-	Telecommunications-Networking-equipment-company founded-in-1987-by-Ren-Zhengfei Headquarters-Shenzhen,Guangdong,China It-is-a-Employee-owned-corporation revenue-is-¥395.009billion employees-are-170,000+ 
+

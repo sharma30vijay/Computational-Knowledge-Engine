@@ -1,0 +1,1 @@
+twitter it-is-a-social-networking-website founded-in-2006-by-Jack-Dorsey,Noah-Glass,Evan-Williams-and-Biz-stone CEO-is-Jack-Dorsey number-of-users-are-332-million headquaters-in-San-Francisco,California,U.S Written-in-Java,Ruby,Scala,JavaScript

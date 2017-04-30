@@ -1,0 +1,5 @@
+apple company is-established-in-1976 headquater-in-carlifornia market-cap-$495.8Billion is-a-fruit is-a-plant
+amazon it-is-a-e-commerce-online-shopping-website Headquaters-in-Seattle,Washington,U.S Ceo-and-president-is-Jeff-Bezos Revenue-is-$107-billion Employees-are-230800 written-in-C++-and-java
+australia country capital-is-Canberra population-is-24093300 currency-in-Aus-Dollar calling-code-+61 TLD-is-.au
+
+

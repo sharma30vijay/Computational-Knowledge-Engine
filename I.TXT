@@ -1,0 +1,3 @@
+india country capital-is-New-Delhi population-is-1276267000 currency-in-INR calling-code-is-+91 TLD-is-.in 
+ibm computer-software-and-hardware-company founded-in-16-JUne-1911 Headquarter-in-Armonk-New-York-U.S Number of employees-377,757 Revenu-$81.741-billions President-and-ceo-of-ibm-is-Ginni-Rometty
+intel it-is-the-world's-largest-manufacturer-of-computer-chips Founded-in-July-18,1968 Founders-are-Gordon-Moore-and-Robert-Noyce Headquarters-in-Santa Clara,California,United States Chairman-is-Andy-Bryant-and-CEO-is-Brian-Krzanich Number-of-employees-107,300 Slogan-is-"Look Inside"

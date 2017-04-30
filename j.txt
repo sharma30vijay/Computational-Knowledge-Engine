@@ -1,0 +1,1 @@
+japan country capital-is-Tokyo population-is-126919659 currency-is-Yen  calling-code-is-+81 TLD-is-.jp

@@ -1,0 +1,1 @@
+orange color is_24bit_RGB contains-red_255-green_128-and-blue_0 is-a-fruit is-a-city-in-united_states is-a-movie
